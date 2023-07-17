@@ -1,4 +1,4 @@
-👋 Greetings Earthlings, I am Issam Abou, a junior web developer on a mission to conquer the world of coding! 🚀
+👋 Greetings Earthlings, I am Issam Abou, Front-End developer on a mission to conquer the world of coding! 🚀
 
 🤖 I am fluent in the languages of HTML, CSS, and JavaScript, and I'm constantly learning new tricks to upgrade my skills.
 

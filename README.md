@@ -1,6 +1,6 @@
 👋 Greetings Earthlings, I am Issam Abou, Front-End developer on a mission to conquer the world of coding! 🚀
 
-🤖 I am fluent in the languages of HTML, CSS, and JavaScript, and I'm constantly learning new tricks to upgrade my skills.
+🤖 I am fluent in the languages of HTML, CSS, JavaScript and React.js, and I'm constantly learning new tricks to upgrade my skills.
 
 💻 My superpower is creating beautiful and functional websites that are out of this world. 🌎
 
